@@ -1,0 +1,31 @@
+#header {
+    background-color: black;
+}
+#logo {
+    margin-top: auto;
+    margin-bottom: auto;
+}
+#search-bar {
+    margin-top: auto;
+    margin-bottom: auto;
+}
+#login {
+    font-size: small;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+#sousheader {
+    background-color: #09161e;
+}
+#sousnav {
+    margin-right: 25%;
+    display: block;
+}
+#hover {
+    display: inline-flex;
+    text-align: center;
+    font-weight: bold;
+}
+#hover:hover {
+    background-color: red;
+}
